@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Privacy Policy — COTW Wild Life</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: auto;
+            padding: 30px;
+            line-height: 1.7;
+            color: #333;
+        }
+        h1, h2 {
+            color: #222;
+        }
+        h1 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+        h2 {
+            margin-top: 25px;
+            font-size: 22px;
+        }
+        p {
+            margin-bottom: 12px;
+        }
+        ul {
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Privacy Policy — COTW Wild Life</h1>
+<p><strong>Last updated:</strong> 11/30/2025</p>
+
+<p>The <strong>COTW Wild Life</strong> application respects user privacy and is committed to ensuring that no personal information is collected, used, or shared.</p>
+
+<h2>1. Data Collection</h2>
+<p>The application does <strong>not</strong> collect, store, transmit, or share any personal user data. This includes, but is not limited to:</p>
+<ul>
+    <li>Name, email, or phone number</li>
+    <li>Login credentials</li>
+    <li>Location data</li>
+    <li>Personal files</li>
+    <li>Device information</li>
+    <li>Unique identifiers</li>
+    <li>Sensitive data</li>
+</ul>
+<p>No data is sent to external servers or stored in the cloud.</p>
+
+<h2>2. Permissions</h2>
+<p>The application does not request any special permissions beyond those required for its standard functionality. The app does <strong>not</strong> access:</p>
+<ul>
+    <li>Internet</li>
+    <li>Location</li>
+    <li>Microphone</li>
+    <li>Personal files</li>
+    <li>Contacts</li>
+    <li>Calendar</li>
+</ul>
+
+<h2>3. Local Storage</h2>
+<p>Some information may be stored locally on the device, such as:</p>
+<ul>
+    <li>Language preferences</li>
+    <li>App configuration settings</li>
+</ul>
+<p>This data never leaves the user's device.</p>
+
+<h2>4. Children</h2>
+<p>The application is suitable for all ages. Since no data is collected, the app complies with <strong>LGPD</strong> (Brazil), <strong>GDPR</strong> (Europe), and general child protection guidelines.</p>
+
+<h2>5. Data Sharing</h2>
+<p>No information of any kind is shared with third parties.</p>
+
+<h2>6. Security</h2>
+<p>Because <strong>COTW Wild Life</strong> does not collect or transmit personal data, there is no risk of exposure or leakage of user information.</p>
+
+<h2>7. Changes to This Policy</h2>
+<p>This policy may be updated to reflect improvements in the application. Whenever changes occur, the latest version will always be available on this page.</p>
+
+<h2>8. Contact</h2>
+<p>If you have questions or requests related to privacy, please contact:</p>
+<p><strong>Email:</strong> reviloude.gamer@gmail.com</p>
+
+</body>
+</html>
